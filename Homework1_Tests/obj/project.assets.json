@@ -6111,8 +6111,8 @@
     },
     "Homework1/1.0.0": {
       "type": "project",
-      "path": "../Homework_Chapter-3_New/Homework1.csproj",
-      "msbuildProject": "../Homework_Chapter-3_New/Homework1.csproj"
+      "path": "../Homework1/Homework1.csproj",
+      "msbuildProject": "../Homework1/Homework1.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6157,6 +6157,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\cimra\\source\\repos\\Homework_Chapter-3_New\\Homework1\\Homework1.csproj": {
+              "projectPath": "C:\\Users\\cimra\\source\\repos\\Homework_Chapter-3_New\\Homework1\\Homework1.csproj"
+            },
             "C:\\Users\\cimra\\source\\repos\\Homework_Chapter-3_New\\Homework_Chapter-3_New\\Homework1.csproj": {
               "projectPath": "C:\\Users\\cimra\\source\\repos\\Homework_Chapter-3_New\\Homework_Chapter-3_New\\Homework1.csproj"
             }

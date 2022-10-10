@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_Chapter_3_New;
+namespace Homework1;
 
 public class Fraction
 {
